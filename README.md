@@ -22,3 +22,4 @@ O curso conta com 40 horas de conteúdo, o qual foi abordado da seguinte forma:
 - Estilos inline
 - Estilos internos
 - Estilos externos
+- Próximo passos
